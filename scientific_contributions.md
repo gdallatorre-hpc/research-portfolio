@@ -1,6 +1,6 @@
-# 🎓 Research Portfolio – Gabriele Dalla Torre
+# 🎓 Research Portfolio – Gabriele Dalla Torre, PhD
 
-> 🧑‍🔬 *Theoretical chemist and molecular modeler with strong interest in bioinorganic chemistry, molecular dynamics, and drug design.*
+> 🧑‍🔬 *High Performance Computing (HPC) engineer and passionate researcher with strong background in software performance optimization,  Quantum chemistry and computational drug discovery.*
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9652--9659-green?logo=orcid)](https://orcid.org/0000-0002-9652-9659)
 [![Publons](https://img.shields.io/badge/Publons-Researcher%20Profile-blue?logo=publons)](https://publons.com/researcher/2016612/gabriele-dalla-torre)
@@ -10,7 +10,7 @@
 
 ## 📑 Table of Contents
 
-- [📢 Conference & Workshop Contributions](#-conference--workshop-contributions)
+- [📢 International Conference/Workshop Contributions](#-conference--workshop-contributions)
 - [🏫 Training Schools & Outreach](#-training-schools--outreach)
 - [📚 Publications](#-publications)
 
@@ -25,7 +25,7 @@
 
 - **1st ITN Annual Workshop**, Paris, France (2016)
   - 🎤 *Oral*: Computational approach to Al(III) chelation therapy  
-  - 🖼️ *Poster*: Same topic
+  - 🖼️ *Poster*: Computational Approach to Al(III) Chelation Therapy
 
 - **ITN Mid-Term Meeting**, Madrid, Spain (2016)  
   - 🎤 *Oral*: Aluminum biochemistry  
