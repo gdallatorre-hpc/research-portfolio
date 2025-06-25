@@ -180,9 +180,9 @@
   👩‍🔬 Mireia Rollan Caballero — Bachelor in Chemistry, University of the Basque Country  
   📅 *01/2016 – 07/2016*
 
-- **Tutor (MSc Biophysics)**  
-  👩‍🔬 Luz America Chi Uluac — Forschungszentrum Jülich  
-  📅 *05/2019 – 02/2020*
+- **Teaching: "Introduction to HPC and Computational Drug Discovery"**  
+  👩‍🔬 Postgraduate short course for medicinal chemists — University of Dundee  
+  📅 *01/2025 – ongoing*
 
 </details>
 
