@@ -109,6 +109,85 @@
 
 ---
 
+## 🏫 Training Schools & Outreach Activities
+
+<details>
+<summary>Click to expand full list</summary>
+
+### 🧪 Training Schools
+
+- **Doctorate Core Course** — Universidad Autónoma de Madrid, Madrid, Spain  
+  📅 *28/09/2015 – 09/10/2015*
+
+- **School on Parallel Computing** — University of Barcelona & Barcelona Supercomputing Center, Barcelona, Spain  
+  📅 *25/01/2016 – 31/01/2016*
+
+- **Tutorial on ADF** — University of Groningen & SCM, Amsterdam, Netherlands  
+  📅 *26/04/2016 – 02/05/2016*
+
+- **Short Course: “The Chemical Bond”** — Prof. Gernot Frenking, Donostia International Physics Centre (DIPC), Donostia, Spain  
+  📅 *05/02/2016 – 28/03/2016*
+
+- **Short Course: “New Tools for Chemical Bond Analysis”** — Dr. Eduard Matito, DIPC, Donostia, Spain  
+  📅 *02/06/2016 – 28/06/2016*
+
+- **Dynapeutics International Summer School** — DIPC, Donostia, Spain  
+  📅 *26/09/2016 – 30/09/2016*  
+  🖼️ *Poster contribution*
+
+- **SHARC Tutorial** — University of Vienna, Vienna, Austria  
+  📅 *03/10/2016 – 07/10/2016*
+
+- **School on Scientific Visualization** — Cineca, Rome, Italy  
+  📅 *16/01/2017 – 20/01/2017*
+
+- **School on Open Cloud Science** — University of Perugia, Perugia, Italy  
+  📅 *01/06/2017 – 07/06/2017*
+
+- **Course on Project Management** — KU Leuven, Leuven, Belgium  
+  📅 *19/07/2017 – 21/07/2017*
+
+- **Theoretical Methods in Quantum Chemistry** — Zaragoza Scientific Center for Advanced Modeling & University of Toulouse, Zaragoza, Spain  
+  📅 *02/10/2017 – 05/10/2017*
+
+- **Introduction to Parallel Programming with MPI and OpenMP** — Forschungszentrum Jülich, Jülich, Germany  
+  📅 *12/08/2019 – 16/08/2019*
+
+- **Dynapeutics International Summer School** — DIPC, Donostia, Spain  
+  📅 *30/09/2019 – 04/10/2019*
+
+---
+
+### 🧑‍🏫 Outreach & Public Engagement
+
+- **“Meet the Prof” Event with Nobel Laureates (Prof. Dudley R. Herschbach)**  
+  📍 Passion for Knowledge Festival, Donostia, Spain  
+  📅 *26/09/2016 – 01/10/2016*
+
+- **Invited Article for General Audience**  
+  📄 *The dark side of Al(III) chelation therapy: a new computational hope*  
+  🔗 [MappingIgnorance.org, 28/10/2016](https://mappingignorance.org/2016/10/28/dark-side-aliii-chelation-therapy-new-computational-hope/)
+
+- **7th Encuentro “Vidas Cientificas” Career Fair** — Eureka! Science Museum, Donostia, Spain  
+  📅 *23/10/2017*  
+  🗣️ *Oral communication & Poster contribution*
+
+- **9th Encuentro “Vidas Cientificas” Career Fair** — Eureka! Science Museum, Donostia, Spain  
+  📅 *05/11/2019*  
+  🖼️ *Poster contribution*
+
+- **Thesis Co-Supervisor**  
+  👩‍🔬 Mireia Rollan Caballero — Bachelor in Chemistry, University of the Basque Country  
+  📅 *01/2016 – 07/2016*
+
+- **Tutor (MSc Biophysics)**  
+  👩‍🔬 Luz America Chi Uluac — Forschungszentrum Jülich  
+  📅 *05/2019 – 02/2020*
+
+</details>
+
+---
+
 ## 📚 Publications List
 
 <details>
