@@ -6,6 +6,10 @@
 [![Publons](https://img.shields.io/badge/Publons-Researcher%20Profile-blue?logo=publons)](https://publons.com/researcher/2016612/gabriele-dalla-torre)
 [![ResearcherID](https://img.shields.io/badge/ResearcherID-T--3733--2017-orange)](https://www.researcherid.com/rid/T-3733-2017)
 
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9652--9659-2d2d2d?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9652-9659)
+[![Publons](https://img.shields.io/badge/Publons-Gabriele%20Dalla%20Torre-2d2d2d?logo=publons&logoColor=white)](https://publons.com/researcher/2016612/gabriele-dalla-torre)
+[![ResearcherID](https://img.shields.io/badge/ResearcherID-T--3733--2017-2d2d2d?logo=researchgate&logoColor=white)](https://www.researcherid.com/rid/T-3733-2017)
+
 ---
 
 ## 📑 Table of Contents
@@ -24,15 +28,15 @@
 ### 🗣️ Oral & Poster Contributions
 
 - **1st ITN Annual Workshop**, Paris, France (2016)
-  - 🎤 *Oral*: Computational approach to Al(III) chelation therapy  
-  - 🖼️ *Poster*: Computational Approach to Al(III) Chelation Therapy
+  - 🎤 *Oral*: Computational approach to Al(III) chelation therapy: insights from computational chemistry 
+  - 🖼️ *Poster*: Computational approach to Al(III) chelation therapy: insights from computational chemistry
 
 - **ITN Mid-Term Meeting**, Madrid, Spain (2016)  
   - 🎤 *Oral*: Aluminum biochemistry  
   - 🖼️ *Poster*: Theoretical approach to aluminum biochemistry
 
 - **12th Keele’s Meeting on Aluminum**, Vancouver, Canada (2017)  
-  - 🖼️ *Poster*: Substituent effects in Al(III)-chelators  
+  - 🖼️ *Poster*: Characterization of Substituent Effects and Binding Features of different Al(III)-Chelator Complexes  
   - 🏆 *Awarded*: Metallomics Poster Prize
 
 - **Workshop on Computational Biology**, Cagliari, Italy (2017)  

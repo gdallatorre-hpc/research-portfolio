@@ -1,0 +1,167 @@
+# 🎓 Research Portfolio – Gabriele Dalla Torre
+
+> 🧪 Theoretical chemist and molecular modeler specializing in bioinorganic chemistry, molecular dynamics, and drug design.
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9652--9659-2d2d2d?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9652-9659)
+[![Publons](https://img.shields.io/badge/Publons-Gabriele%20Dalla%20Torre-2d2d2d?logo=publons&logoColor=white)](https://publons.com/researcher/2016612/gabriele-dalla-torre)
+[![ResearcherID](https://img.shields.io/badge/ResearcherID-T--3733--2017-2d2d2d?logo=researchgate&logoColor=white)](https://www.researcherid.com/rid/T-3733-2017)
+
+---
+
+## 📑 Table of Contents
+
+- [📢 Conference & Workshop Contributions](#-conference--workshop-contributions)
+- [🏫 Training Schools & Outreach Activities](#-training-schools--outreach-activities)
+- [📚 Publications List](#-publications-list)
+
+---
+
+## 📢 Conference & Workshop Contributions
+
+<details>
+<summary>Click to expand full list</summary>
+
+### 🎤 Oral and Poster Presentations
+
+- **1st ITN Annual Workshop** — Paris, France (18–21/07/2016)  
+  - 🗣️ *Oral*: Computational approach to Al(III) chelation therapy: insights from computational chemistry  
+  - 🖼️ *Poster*: Computational approach to Al(III) chelation therapy: insights from computational chemistry
+
+- **ITN Mid-Term Meeting** — Madrid, Spain (16/12/2016)  
+  - 🗣️ *Oral*: Aluminum biochemistry  
+  - 🖼️ *Poster*: Theoretical approach to aluminum biochemistry: a computational approach
+
+- **12th Keele’s Meeting on Aluminum** — Vancouver, Canada (04–08/03/2017)  
+  - 🖼️ *Poster*: Characterization of Substituent Effects and Binding Features of different Al(III)-Chelator Complexes  
+  - 🏅 *Metallomics Poster Prize*
+
+- **Invited Talk** — Workshop on Computational Studies in Biology, University of Cagliari (02/04/2017)  
+  - 🗣️ Theoretical approach to aluminum chelation therapy: characterization of the Al(III)-Ligand binding features
+
+- **TheoBio17 – 8th Theoretical Biophysics Symposium** — Donostia, Spain (26–30/06/2017)  
+  - 🗣️ *Oral*: Computational approach to Aluminum biochemistry  
+  - 🖼️ *Poster*: Aluminum, a walk on part in the war or a lead role in a cage?
+
+- **2nd ITN Annual Workshop** — KU Leuven, Belgium (16–19/07/2017)  
+  - 🗣️ *Oral*: Computational approach to Aluminum biochemistry  
+  - 🖼️ *Poster*: Aluminum, a walk on part in the war or a lead role in a cage?
+
+- **11th European Conference on Theoretical and Computational Chemistry (EUCO)** — Barcelona, Spain (04–07/09/2017)  
+  - 🖼️ *Poster*: The Dark Side of aluminium chelation therapy: characterization of Al(III)-ligand binding features
+
+- **16th International Congress of Quantum Chemistry (ICQC)** — Menton, France (18–23/06/2018)  
+  - 🖼️ *Poster*: Towards new and reliable Al(III) chelating agents
+
+- **3rd ITN Annual Workshop** — University of Pisa (23–25/07/2018)  
+  - 🗣️ *Oral*: Computational approach to Aluminum biochemistry and development of new chelation strategies  
+  - 🖼️ *Poster*: Aluminum: a mysterious metal ion
+
+- **14th EuroBIC – European Biological Inorganic Chemistry Conference** — Birmingham, UK (26–30/08/2018)  
+  - 🖼️ *Poster*: Computational approach to Al(III) chelation therapy
+
+- **3rd DynIon Meeting (FOR2518)** — Göttingen, Germany (14/06/2019)  
+  - 🗣️ *Oral*: Molecular simulation studies on ClC proteins
+
+- **INM & ICS Retreat** — Forschungszentrum Jülich (25–26/06/2019)  
+  - 🖼️ *Poster*: Structural basis of the selectivity towards nitrate and chloride across the CLC-exchangers superfamily
+
+- **CECAM Workshop on Enhanced Sampling** — Lugano, Switzerland (25–27/07/2019)  
+  - 🖼️ *Poster*: Addressing the molecular mechanism(s) of CLC-type exchangers using large scale molecular dynamics simulations
+
+- **DCTC 2019 – Italian Chemical Society** — Rende, Italy (19–20/09/2019)  
+  - 🖼️ *Poster*: Selectivity for nitrate and chloride across CLC-superfamily exchangers: an MD study
+
+- **German Workshop on Structural Prediction of Membrane Proteins** — Forschungszentrum Jülich (26–27/11/2019)  
+  - 🖼️ *Poster*: Selectivity of CLC-exchangers for nitrate: A molecular simulations study
+
+</details>
+
+---
+
+## 🏫 Training Schools & Outreach Activities
+
+<details>
+<summary>Click to expand full list</summary>
+
+### 🧪 Training Schools
+
+- Doctorate Core Course — Universidad Autónoma de Madrid (2015)  
+- Parallel Computing School — BSC, Barcelona (01/2016)  
+- ADF Tutorial — University of Groningen (04/2016)  
+- Short Course “The Chemical Bond” — DIPC (02–03/2016)  
+- “New Tools for Chemical Bond Analysis” — DIPC (06/2016)  
+- SHARC Tutorial — University of Vienna (10/2016)  
+- Scientific Visualization — Cineca, Rome (01/2017)  
+- Open Cloud Science — University of Perugia (06/2017)  
+- Project Management — KU Leuven (07/2017)  
+- Quantum Chemistry Methods — Zaragoza (10/2017)  
+- Parallel Programming with MPI/OpenMP — Jülich (08/2019)
+
+### 🧑‍🏫 Outreach & Communication
+
+- “Meet the Prof” with Nobel Laureates — Passion for Knowledge Festival (09–10/2016)  
+- *Mapping Ignorance* article (2016): [“The dark side of Al(III) chelation therapy”](https://mappingignorance.org/2016/10/28/dark-side-aliii-chelation-therapy-new-computational-hope/)  
+- Career Talks — 7th & 9th Encuentro “Vidas Cientifica”, Eureka! Science Museum (2017, 2019)  
+- Co-supervisor — Mireia Rollan Caballero (2016)  
+- Tutor — Luz America Chi Uluac, MSc Biophysics (2019–2020)
+
+</details>
+
+---
+
+## 📚 Publications List
+
+<details>
+<summary>Click to expand full list</summary>
+
+### 🧾 Peer-Reviewed Articles
+
+1. **Dalla Torre G**, Mujika JI, Formoso E, Matito E, Ramos MJ, Lopez X.  
+   *Tuning the affinity of catechols and salicylic acids toward Al(III): characterization of Al-chelator interactions.*  
+   Dalton Trans. **2018**, *47*, 9592–9607. 🎯 *Front cover article*
+
+2. Mujika JI, **Dalla Torre G**, Formoso E, Grande-Atzazi R, Grabowski SJ, Exley C, Lopez X.  
+   *Aluminum’s preferential binding site in proteins: side chains of amino acids versus backbone interactions.*  
+   J. Inorg. Biochem. **2018**, *181*, 111.
+
+3. Mujika JI, **Dalla Torre G**, Lopez X.  
+   *Aluminum and Fenton reaction: How can the reaction be modulated by speciation?*  
+   Phys. Chem. Chem. Phys. **2018**, *20*, 16256.
+
+4. Mujika JI, **Dalla Torre G**, Lachowicz JI, Lopez X.  
+   *Design of new efficient chelators of aluminum based on Mimosine-containing peptides.*  
+   RSC Adv. **2019**, *9*, 7688–7697.
+
+5. **Dalla Torre G**, Mujika JI, Lachowicz JI, Ramos MJ, Lopez X.  
+   *The interaction of aluminum with catechol-based neurotransmitters: Can these species contribute to neurodegeneration?*  
+   Dalton Trans. **2019**, *48*(18), 6003–6018.
+
+6. Lachowicz JI, **Dalla Torre G**, et al.  
+   *Metal self-assembly mimosine peptides with enhanced antimicrobial activity.*  
+   Dalton Trans. **2020**, *49*, 2862–2879.
+
+7. Lachowicz JI, Todde D, Aberamchuk K, **Dalla Torre G**, et al.  
+   *Kojic acid derivatives as double face sensors for metal and phosphate ions.*  
+   J. Inorg. Biochem. **2021**, *111*.
+
+8. Lachowicz JI, Pichini G, Piludu M, Fais S, **Dalla Torre G**, et al.  
+   *Thymosin β4 is an endogenous iron chelator and molecular switcher of ferroptosis.*  
+   Int J Mol Sci. **2022**; *23*(1).
+
+9. Lachowicz JI, Mateddu A, Coni P, Caltagirone C, **Dalla Torre G**, et al.  
+   *Mechanism of DNA binding and in vitro activity of iron(III) and aluminum(III) complexes.*  
+   Dalton Trans. — *Accepted*
+
+### 🧪 In Preparation
+
+- **Dalla Torre G**, Lopez X, Ramos MJ.  
+  *Assessing exchange-correlation functionals and semiempirical methods for Al(III)-ligand free energies.*
+
+- **Dalla Torre G**.  
+  *Design and tuning of metal ion chelating agents: recent advances.* *(Invited review)*
+
+- **Dalla Torre G**, Uluac AC, Carloni P.  
+  *Molecular mechanism of Cl⁻/NO₃⁻ selectivity in the CLC-ec1 antiporter.*
+
+</details>
+
