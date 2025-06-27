@@ -169,11 +169,12 @@
 
 - **Invited Article for General Audience**  
   📄 *The dark side of Al(III) chelation therapy: a new computational hope*  
-  🔗 [MappingIgnorance.org, 28/10/2016](https://mappingignorance.org/2016/10/28/dark-side-aliii-chelation-therapy-new-computational-hope/)
+  📅 *28/10/2016*
+  🔗 [MappingIgnorance.org](https://mappingignorance.org/2016/10/28/dark-side-aliii-chelation-therapy-new-computational-hope/)
 
 - **7th Encuentro “Vidas Cientificas” Career Fair** — Eureka! Science Museum, Donostia, Spain  
   📅 *23/10/2017*  
-  🗣️ *Oral communication & Poster contribution*
+  🗣️🖼️  *Oral & Poster contributions*
 
 - **9th Encuentro “Vidas Cientificas” Career Fair** — Eureka! Science Museum, Donostia, Spain  
   📅 *05/11/2019*  
