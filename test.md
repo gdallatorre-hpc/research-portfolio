@@ -183,9 +183,6 @@
 - **9th Encuentro “Vidas Cientificas” Career Fair** — Eureka! Science Museum, Donostia, Spain  
   📅 *05/11/2019*  
   🖼️ *Poster contribution*
-
-- **Thesis Co-Supervisor**  
-  👩‍🔬 Mireia Rollan Caballero — Bachelor in Chemistry, University of the Basque Country  
   📅 *01/2016 – 07/2016*
 
 - **Teaching: "Introduction to HPC and Computational Drug Discovery"**  
