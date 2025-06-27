@@ -75,7 +75,7 @@
   - 🖼️ *Poster*: Selectivity of CLC-exchangers for nitrate: A molecular simulations study
 
 - **21st European User Group Meeting, Schrodinger Inc.** — Lisbon, Portugal &nbsp;&nbsp; 📅 *03/05/2023 – 05/05/2023*
-  - 🧑*Attended as representative of the Drug Discovery Unit=
+  - 🧑‍💼*Attended as representative of the Drug Discovery Unit*
 
 </details>
 
