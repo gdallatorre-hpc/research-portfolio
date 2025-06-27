@@ -163,6 +163,10 @@
 
 ### 🧑‍🏫 Outreach & Public Engagement
 
+- **Thesis Co-Supervisor**  
+  👩‍🔬 Mireia Rollan Caballero — Bachelor in Chemistry, University of the Basque Country  
+  📅 *01/2016 – 07/2016*
+
 - **“Meet the Prof” Event with Nobel Laureates (Prof. Dudley R. Herschbach)**  
   📍 Passion for Knowledge Festival, Donostia, Spain  
   📅 *26/09/2016 – 01/10/2016*
@@ -201,7 +205,8 @@
 
 1. **Dalla Torre G**, Mujika JI, Formoso E, Matito E, Ramos MJ, Lopez X.  
    *Tuning the affinity of catechols and salicylic acids toward Al(III): characterization of Al-chelator interactions.*  
-   Dalton Trans. **2018**, *47*, 9592–9607. 🎯 *Front cover article*
+   Dalton Trans. **2018**, *47*, 9592–9607.  
+   🏆 ***Front cover article***
 
 2. Mujika JI, **Dalla Torre G**, Formoso E, Grande-Atzazi R, Grabowski SJ, Exley C, Lopez X.  
    *Aluminum’s preferential binding site in proteins: side chains of amino acids versus backbone interactions.*  
