@@ -33,7 +33,7 @@
 
 - **12th Keele’s Meeting on Aluminum** — Vancouver, Canada &nbsp;&nbsp;  📅 *04/03/2017 – 08/03/2017*
   - 🖼️ *Poster*: Characterization of Substituent Effects and Binding Features of different Al(III)-Chelator Complexes  
-  - 🏅 *Metallomics Poster Prize*
+  - 🏆  ***Metallomics Poster Prize***
 
 - **Invited Talk** — Workshop on Computational Studies in Biology, University of Cagliari, Italy &nbsp;&nbsp;  📅 *03/04/2017*
   - 🗣️ Theoretical approach to aluminum chelation therapy: characterization of the Al(III)-Ligand binding features
