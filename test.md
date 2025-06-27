@@ -74,8 +74,8 @@
 - **German Workshop on Structural Prediction of Membrane Proteins** — Forschungszentrum Jülich, Germany &nbsp;&nbsp; 📅 *26/11/2019 – 27/11/2019*
   - 🖼️ *Poster*: Selectivity of CLC-exchangers for nitrate: A molecular simulations study
 
-- **Schrodinger 21st European User Group Meeting** — Lisbon, Portugal &nbsp;&nbsp; 📅 *03/05/2023 – 05/05/2023*
-  - 🖼️ *Poster*: Representing Drug Discovery Unit
+- **21st European User Group Meeting, Schrodinger Inc.** — Lisbon, Portugal &nbsp;&nbsp; 📅 *03/05/2023 – 05/05/2023*
+  - 🧑*Attended as representative of the Drug Discovery Unit=
 
 </details>
 
@@ -128,13 +128,13 @@
 - **Tutorial on ADF** — University of Groningen & SCM, Amsterdam, Netherlands  
   📅 *26/04/2016 – 02/05/2016*
 
-- **Short Course: “The Chemical Bond”** — Prof. Gernot Frenking, Donostia International Physics Centre (DIPC), Donostia, Spain  
+- **Short Course: “The Chemical Bond”** — Prof. Gernot Frenking, Donostia International Physics Centre, Donostia, Spain  
   📅 *05/02/2016 – 28/03/2016*
 
-- **Short Course: “New Tools for Chemical Bond Analysis”** — Dr. Eduard Matito, DIPC, Donostia, Spain  
+- **Short Course: “New Tools for Chemical Bond Analysis”** — Dr. Eduard Matito, Donostia International Physics Centre, Donostia, Spain  
   📅 *02/06/2016 – 28/06/2016*
 
-- **Dynapeutics International Summer School** — DIPC, Donostia, Spain  
+- **Dynapeutics International Summer School** — Donostia International Physics Centre, Donostia, Spain  
   📅 *26/09/2016 – 30/09/2016*  
   🖼️ *Poster contribution*
 
@@ -147,7 +147,7 @@
 - **School on Open Cloud Science** — University of Perugia, Perugia, Italy  
   📅 *01/06/2017 – 07/06/2017*
 
-- **Course on Project Management** — KU Leuven, Leuven, Belgium  
+- **Course on Project Management** — Katholieke Universiteit Leuven, Leuven, Belgium  
   📅 *19/07/2017 – 21/07/2017*
 
 - **Theoretical Methods in Quantum Chemistry** — Zaragoza Scientific Center for Advanced Modeling & University of Toulouse, Zaragoza, Spain  
@@ -156,7 +156,7 @@
 - **Introduction to Parallel Programming with MPI and OpenMP** — Forschungszentrum Jülich, Jülich, Germany  
   📅 *12/08/2019 – 16/08/2019*
 
-- **Dynapeutics International Summer School** — DIPC, Donostia, Spain  
+- **Dynapeutics2 International Summer School** — Donostia International Physics Centre, Donostia, Spain  
   📅 *30/09/2019 – 04/10/2019*
 
 ---
