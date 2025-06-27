@@ -23,7 +23,7 @@
 
 ### 🎤 Oral and Poster Presentations
 
-- **1st ITN Annual Workshop** — Paris, France  📅 *18/07/2016 – 21/07/2016*
+- **1st ITN Annual Workshop** — Paris, France    📅 *18/07/2016 – 21/07/2016*
   - 🗣️ *Oral*: Computational approach to Al(III) chelation therapy: insights from computational chemistry  
   - 🖼️ *Poster*: Computational approach to Al(III) chelation therapy: insights from computational chemistry
 
