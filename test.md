@@ -27,54 +27,54 @@
   - 🗣️ *Oral*: Computational approach to Al(III) chelation therapy: insights from computational chemistry  
   - 🖼️ *Poster*: Computational approach to Al(III) chelation therapy: insights from computational chemistry
 
-- **ITN Mid-Term Meeting** — Madrid, Spain  📅 *16/12/2016*
+- **ITN Mid-Term Meeting** — Madrid, Spain &nbsp;&nbsp; 📅 *16/12/2016*
   - 🗣️ *Oral*: Aluminum biochemistry  
   - 🖼️ *Poster*: Theoretical approach to aluminum biochemistry: a computational approach
 
-- **12th Keele’s Meeting on Aluminum** — Vancouver, Canada  📅 *04/03/2017 – 08/03/2017*
+- **12th Keele’s Meeting on Aluminum** — Vancouver, Canada &nbsp;&nbsp;  📅 *04/03/2017 – 08/03/2017*
   - 🖼️ *Poster*: Characterization of Substituent Effects and Binding Features of different Al(III)-Chelator Complexes  
   - 🏅 *Metallomics Poster Prize*
 
-- **Invited Talk** — Workshop on Computational Studies in Biology, University of Cagliari, Italy  📅 *03/04/2017*
+- **Invited Talk** — Workshop on Computational Studies in Biology, University of Cagliari, Italy &nbsp;&nbsp;  📅 *03/04/2017*
   - 🗣️ Theoretical approach to aluminum chelation therapy: characterization of the Al(III)-Ligand binding features
 
-- **TheoBio17 – 8th Theoretical Biophysics Symposium** — Donostia, Spain  📅 *26/06/2017 – 30/06/2017*
+- **TheoBio17 – 8th Theoretical Biophysics Symposium** — Donostia, Spain &nbsp;&nbsp; 📅 *26/06/2017 – 30/06/2017*
   - 🗣️ *Oral*: Computational approach to Aluminum biochemistry  
   - 🖼️ *Poster*: Aluminum, a walk on part in the war or a lead role in a cage?
 
-- **2nd ITN Annual Workshop** — Katholieke Universiteit Leuven, Belgium  📅 *16/07/2017 – 19/07/2017*
+- **2nd ITN Annual Workshop** — Katholieke Universiteit Leuven, Belgium &nbsp;&nbsp; 📅 *16/07/2017 – 19/07/2017*
   - 🗣️ *Oral*: Computational approach to Aluminum biochemistry  
   - 🖼️ *Poster*: Aluminum, a walk on part in the war or a lead role in a cage?
 
-- **11th European Conference on Theoretical and Computational Chemistry (EUCO)** — Barcelona, Spain  📅 *04/09/2017 – 07/09/2017*
+- **11th European Conference on Theoretical and Computational Chemistry (EUCO)** — Barcelona, Spain &nbsp;&nbsp; 📅 *04/09/2017 – 07/09/2017*
   - 🖼️ *Poster*: The Dark Side of aluminium chelation therapy: characterization of Al(III)-ligand binding features
 
-- **16th International Congress of Quantum Chemistry (ICQC)** — Menton, France  📅 *18/06/2018 – 23/06/2018*
+- **16th International Congress of Quantum Chemistry (ICQC)** — Menton, France &nbsp;&nbsp; 📅 *18/06/2018 – 23/06/2018*
   - 🖼️ *Poster*: Towards new and reliable Al(III) chelating agents
 
-- **3rd ITN Annual Workshop** — University of Pisa  📅 *23/07/2018 – 25/07/2018*
+- **3rd ITN Annual Workshop** — University of Pisa &nbsp;&nbsp; 📅 *23/07/2018 – 25/07/2018*
   - 🗣️ *Oral*: Computational approach to Aluminum biochemistry and development of new chelation strategies  
   - 🖼️ *Poster*: Aluminum: a mysterious metal ion
 
-- **14th EuroBIC – European Biological Inorganic Chemistry Conference** — Birmingham, United Kingdom  📅 *26/08/2018 – 30/08/2018*
+- **14th EuroBIC – European Biological Inorganic Chemistry Conference** — Birmingham, United Kingdom &nbsp;&nbsp; 📅 *26/08/2018 – 30/08/2018*
   - 🖼️ *Poster*: Computational approach to Al(III) chelation therapy
 
-- **3rd DynIon Meeting (FOR2518)** — Göttingen, Germany  📅 *14/06/2019*
+- **3rd DynIon Meeting (FOR2518)** — Göttingen, Germany &nbsp;&nbsp; 📅 *14/06/2019*
   - 🗣️ *Oral*: Molecular simulation studies on ClC proteins
 
-- **INM & ICS Retreat** — Forschungszentrum Jülich, Germany  📅 *25/06/2019 – 25/06/2019*
+- **INM & ICS Retreat** — Forschungszentrum Jülich, Germany &nbsp;&nbsp; 📅 *25/06/2019 – 25/06/2019*
   - 🖼️ *Poster*: Structural basis of the selectivity towards nitrate and chloride across the CLC-exchangers superfamily
 
-- **CECAM Workshop on Enhanced Sampling** — Lugano, Switzerland  📅 *25/07/2019 – 27/07/2019*
+- **CECAM Workshop on Enhanced Sampling** — Lugano, Switzerland &nbsp;&nbsp; 📅 *25/07/2019 – 27/07/2019*
   - 🖼️ *Poster*: Addressing the molecular mechanism(s) of CLC-type exchangers using large scale molecular dynamics simulations
 
-- **DCTC 2019 – Italian Chemical Society** — Rende, Italy  📅 *19/09/2019 – 20/09/2019*
+- **DCTC 2019 – Italian Chemical Society** — Rende, Italy &nbsp;&nbsp; 📅 *19/09/2019 – 20/09/2019*
   - 🖼️ *Poster*: Selectivity for nitrate and chloride across CLC-superfamily exchangers: an MD study
 
-- **German Workshop on Structural Prediction of Membrane Proteins** — Forschungszentrum Jülich, Germany  📅 *26/11/2019 – 27/11/2019*
+- **German Workshop on Structural Prediction of Membrane Proteins** — Forschungszentrum Jülich, Germany &nbsp;&nbsp; 📅 *26/11/2019 – 27/11/2019*
   - 🖼️ *Poster*: Selectivity of CLC-exchangers for nitrate: A molecular simulations study
 
-- **Schrodinger 21st European User Group Meeting** — Lisbon, Portugal  📅 *03/05/2023 – 05/05/2023*
+- **Schrodinger 21st European User Group Meeting** — Lisbon, Portugal &nbsp;&nbsp; 📅 *03/05/2023 – 05/05/2023*
   - 🖼️ *Poster*: Representing Drug Discovery Unit
 
 </details>
