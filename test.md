@@ -183,7 +183,6 @@
 - **9th Encuentro “Vidas Cientificas” Career Fair** — Eureka! Science Museum, Donostia, Spain  
   📅 *05/11/2019*  
   🖼️ *Poster contribution*
-  📅 *01/2016 – 07/2016*
 
 - **Teaching: "Introduction to HPC and Computational Drug Discovery"**  
   👩‍🔬 Postgraduate short course for medicinal chemists — University of Dundee  
