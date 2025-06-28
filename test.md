@@ -131,7 +131,7 @@
 
 ---
 
-### 📜 Certification
+### 📜 Certifications
 
 - **Quantum Computing Professional** — UK National Quantum Computing Centre (NQCC), online  
   📅 *Ongoing*   
