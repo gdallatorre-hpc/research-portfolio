@@ -134,9 +134,9 @@
 ### 📜 Certification
 
 - **Quantum Computing Professional** — UK National Quantum Computing Centre (NQCC), online  
-  📅 Ongoing*  
+  📅 *Ongoing*   
 
-- **Python Programming Masterclass** — Udemy, online
+- **Python Programming Masterclass** — Udemy, online  
   📅 *Ongoing*  
 
 
