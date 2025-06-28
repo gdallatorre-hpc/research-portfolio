@@ -11,7 +11,8 @@
 ## 📑 Table of Contents
 
 - [📢 Conference & Workshop Contributions](#-conference--workshop-contributions)
-- [🏫 Training Schools & Outreach Activities](#-training-schools--outreach-activities)
+- [🏫 Training Schools](#-training-schools)
+- [📚 Outreach Activities](#-outreach-activities)
 - [📚 Publications List](#-publications-list)
 
 ---
@@ -112,7 +113,7 @@
 
 ---
 
-## 🏫 Training Schools & Outreach Activities
+## 🏫 Training Schools
 
 <details>
 <summary>Click to expand full list</summary>
@@ -160,6 +161,12 @@
   📅 *30/09/2019 – 04/10/2019*
 
 ---
+
+## 🏫 Outreach Activities
+
+<details>
+<summary>Click to expand full list</summary>
+
 
 ### 🧑‍🏫 Outreach & Public Engagement
 
