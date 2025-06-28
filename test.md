@@ -13,8 +13,7 @@
 - [📢 Conference & Workshop Contributions](#-conference--workshop-contributions)
 - [🏫 Training Schools](#-training-schools)
 - [📚 Outreach Activities](#-outreach-activities)
-- [📚 Publications List](#-ipublications-list)
-- [📚 Publications List](#publications-list)
+- [📚 Publications List](#-publications-list)
 
 ---
 
