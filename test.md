@@ -129,6 +129,17 @@
 - **Dynapeutics2 International Summer School** — Donostia International Physics Centre, Donostia, Spain  
   📅 *30/09/2019 – 04/10/2019*
 
+---
+
+### 📜 Certification
+
+- **Quantum Computing Professional** — UK National Quantum Computing Centre (NQCC), online  
+  📅 Ongoing*  
+
+- **Python Programming Masterclass** — Udemy, online
+  📅 *Ongoing*  
+
+
 </details>
 
 ---
