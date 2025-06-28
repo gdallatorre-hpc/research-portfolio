@@ -12,7 +12,7 @@
 
 - [📢 Conference & Workshop Contributions](#-conference--workshop-contributions)
 - [🏫 Training Schools](#-training-schools)
-- [📚 Outreach Activities](#-outreach-activities)
+- [👥 Outreach Activities](#-outreach-activities)
 - [📚 Publications List](#-publications-list)
 
 ---
@@ -133,13 +133,13 @@
 
 ---
 
-## 🏫 Outreach Activities
+## 👥 Outreach Activities
 
 <details>
 <summary>Click to expand full list</summary>
 
 
-### 🧑‍🏫 Outreach & Public Engagement
+### 🧑‍ Outreach & Public Engagement
 
 - **Thesis Co-Supervisor**  
   👩‍🔬 Mireia Rollan Caballero — Bachelor in Chemistry, University of the Basque Country  
