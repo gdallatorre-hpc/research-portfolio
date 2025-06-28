@@ -82,37 +82,6 @@
 
 ---
 
-## 🏫 Training Schools & Outreach Activities
-
-<details>
-<summary>Click to expand full list</summary>
-
-### 🧪 Training Schools
-
-- Doctorate Core Course — Universidad Autónoma de Madrid (2015)  
-- Parallel Computing School — BSC, Barcelona (01/2016)  
-- ADF Tutorial — University of Groningen (04/2016)  
-- Short Course “The Chemical Bond” — DIPC (02–03/2016)  
-- “New Tools for Chemical Bond Analysis” — DIPC (06/2016)  
-- SHARC Tutorial — University of Vienna (10/2016)  
-- Scientific Visualization — Cineca, Rome (01/2017)  
-- Open Cloud Science — University of Perugia (06/2017)  
-- Project Management — KU Leuven (07/2017)  
-- Quantum Chemistry Methods — Zaragoza (10/2017)  
-- Parallel Programming with MPI/OpenMP — Jülich (08/2019)
-
-### 🧑‍🏫 Outreach & Communication
-
-- “Meet the Prof” with Nobel Laureates — Passion for Knowledge Festival (09–10/2016)  
-- *Mapping Ignorance* article (2016): [“The dark side of Al(III) chelation therapy”](https://mappingignorance.org/2016/10/28/dark-side-aliii-chelation-therapy-new-computational-hope/)  
-- Career Talks — 7th & 9th Encuentro “Vidas Cientifica”, Eureka! Science Museum (2017, 2019)  
-- Co-supervisor — Mireia Rollan Caballero (2016)  
-- Tutor — Luz America Chi Uluac, MSc Biophysics (2019–2020)
-
-</details>
-
----
-
 ## 🏫 Training Schools
 
 <details>
@@ -159,6 +128,8 @@
 
 - **Dynapeutics2 International Summer School** — Donostia International Physics Centre, Donostia, Spain  
   📅 *30/09/2019 – 04/10/2019*
+
+</details>
 
 ---
 
