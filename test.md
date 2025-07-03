@@ -4,7 +4,7 @@
 
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9652--9659-2d2d2d?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9652-9659)
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-Gabriele%20Dalla%20Torre-2d2d2d?logo=publons&logoColor=white)](https://scholar.google.com/citations?user=a4aK7K4AAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Gabriele%20Dalla%20Torre-2d2d2d?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=a4aK7K4AAAAJ&hl=en)
 
 ---
 
