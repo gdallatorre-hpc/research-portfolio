@@ -190,28 +190,28 @@
 
 1. **Dalla Torre G**, Mujika JI, Formoso E, Matito E, Ramos MJ, Lopez X.  
    *Tuning the affinity of catechols and salicylic acids toward Al(III): characterization of Al-chelator interactions.*  
-   Dalton Trans. **2018**, *47*, 9592–9607.  
+   Dalton Trans. **2018**, *47*.  
    🏆 ***Front cover article***
 
 2. Mujika JI, **Dalla Torre G**, Formoso E, Grande-Atzazi R, Grabowski SJ, Exley C, Lopez X.  
    *Aluminum’s preferential binding site in proteins: side chains of amino acids versus backbone interactions.*  
-   J. Inorg. Biochem. **2018**, *181*, 111.
+   J. Inorg. Biochem. **2018**, *181* 111.
 
 3. Mujika JI, **Dalla Torre G**, Lopez X.  
    *Aluminum and Fenton reaction: How can the reaction be modulated by speciation?*  
-   Phys. Chem. Chem. Phys. **2018**, *20*, 16256.
+   Phys. Chem. Chem. Phys. **2018**, *20* 16256.
 
 4. Mujika JI, **Dalla Torre G**, Lachowicz JI, Lopez X.  
    *Design of new efficient chelators of aluminum based on Mimosine-containing peptides.*  
-   RSC Adv. **2019**, *9*, 7688–7697.
+   RSC Adv. **2019**, *9*.
 
 5. **Dalla Torre G**, Mujika JI, Lachowicz JI, Ramos MJ, Lopez X.  
    *The interaction of aluminum with catechol-based neurotransmitters: Can these species contribute to neurodegeneration?*  
-   Dalton Trans. **2019**, *48*(18), 6003–6018.
+   Dalton Trans. **2019**, *48*(18).
 
 6. Lachowicz JI, **Dalla Torre G**, et al.  
    *Metal self-assembly mimosine peptides with enhanced antimicrobial activity.*  
-   Dalton Trans. **2020**, *49*, 2862–2879.
+   Dalton Trans. **2020**, *49*.
 
 7. Lachowicz JI, Todde D, Aberamchuk K, **Dalla Torre G**, et al.  
    *Kojic acid derivatives as double face sensors for metal and phosphate ions.*  
@@ -223,11 +223,11 @@
 
 9. Lachowicz JI, Mateddu A, Coni P, Caltagirone C, **Dalla Torre G**, et al.  
    *Mechanism of DNA binding and in vitro activity of iron(III) and aluminum(III) complexes.*  
-   Dalton Trans. — *Accepted*
+   Dalton Trans. **2022** *51*(16).
 
 10. Pinzi L, Conze C, Bisi N, **Dalla Torre G**, et al.   
     *Quantitative live cell imaging of a tauopathy model enables the identification of a polypharmacological drug candidate that restores physiological microtubule interaction*  
-    Nature Communications **2024** *15*(1)
+    Nature Communications **2024** *15*(1).
 
 ### 🧪 In Preparation
 
