@@ -4,7 +4,7 @@
 
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9652--9659-2d2d2d?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9652-9659)
-[![Google Scholar](https://img.shields.io/badge/Publons-Gabriele%20Dalla%20Torre-2d2d2d?logo=publons&logoColor=white)](https://scholar.google.com/citations?user=a4aK7K4AAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-Gabriele%20Dalla%20Torre-2d2d2d?logo=publons&logoColor=white)](https://scholar.google.com/citations?user=a4aK7K4AAAAJ&hl=en)
 
 ---
 
@@ -225,20 +225,14 @@
    *Mechanism of DNA binding and in vitro activity of iron(III) and aluminum(III) complexes.*  
    Dalton Trans. — *Accepted*
 
-10. Pinzi L, Conze C, Bisi N, **Dalla Torre G**, et al. 
-    *Quantitative live cell imaging of a tauopathy model enables the identification of a polypharmacological drug candidate that restores physiological microtubule interaction*
+10. Pinzi L, Conze C, Bisi N, **Dalla Torre G**, et al.   
+    *Quantitative live cell imaging of a tauopathy model enables the identification of a polypharmacological drug candidate that restores physiological microtubule interaction*  
     Nature Communications **2024** *15*(1)
 
 ### 🧪 In Preparation
 
 - **Dalla Torre G**, Lopez X, Ramos MJ.  
-  *Assessing exchange-correlation functionals and semiempirical methods for Al(III)-ligand free energies.*
-
-- **Dalla Torre G**.  
-  *Design and tuning of metal ion chelating agents: recent advances.* *(Invited review)*
-
-- **Dalla Torre G**, Uluac AC, Carloni P.  
-  *Molecular mechanism of Cl⁻/NO₃⁻ selectivity in the CLC-ec1 antiporter.*
+  *Benchmarking the performance of exchange-correlation functionals and semiempirical methods in predicting Al(III)-ligand binding free energies.*
 
 </details>
 
