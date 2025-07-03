@@ -1,10 +1,10 @@
-# 🎓 Research Portfolio – Gabriele Dalla Torre
+# 🎓 Research Portfolio – Gabriele Dalla Torre, PhD
 
-> 🧪 Theoretical chemist and molecular modeler specializing in bioinorganic chemistry, molecular dynamics, and drug design.
+> 🧑‍🔬 *High Performance Computing (HPC) engineer and passionate researcher with strong background in software performance optimization,  Quantum chemistry and computational drug discovery.*
+
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9652--9659-2d2d2d?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9652-9659)
-[![Publons](https://img.shields.io/badge/Publons-Gabriele%20Dalla%20Torre-2d2d2d?logo=publons&logoColor=white)](https://publons.com/researcher/2016612/gabriele-dalla-torre)
-[![ResearcherID](https://img.shields.io/badge/ResearcherID-T--3733--2017-2d2d2d?logo=researchgate&logoColor=white)](https://www.researcherid.com/rid/T-3733-2017)
+[![Google Scholar](https://img.shields.io/badge/Publons-Gabriele%20Dalla%20Torre-2d2d2d?logo=publons&logoColor=white)](https://scholar.google.com/citations?user=a4aK7K4AAAAJ&hl=en)
 
 ---
 
@@ -224,6 +224,10 @@
 9. Lachowicz JI, Mateddu A, Coni P, Caltagirone C, **Dalla Torre G**, et al.  
    *Mechanism of DNA binding and in vitro activity of iron(III) and aluminum(III) complexes.*  
    Dalton Trans. — *Accepted*
+
+10. Pinzi L, Conze C, Bisi N, **Dalla Torre G**, et al. 
+    *Quantitative live cell imaging of a tauopathy model enables the identification of a polypharmacological drug candidate that restores physiological microtubule interaction*
+    Nature Communications **2024** *15*(1)
 
 ### 🧪 In Preparation
 
