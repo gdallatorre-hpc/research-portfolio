@@ -82,7 +82,7 @@
 
 ---
 
-## 🏫 Training Schools
+## 🏫 Training Schools & Certifications
 
 <details>
 <summary>Click to expand full list</summary>
@@ -153,8 +153,9 @@
 ### 🧑 Outreach & Public Engagement
 
 - **Thesis Co-Supervisor**  
-  👩‍🔬 Mireia Rollan Caballero — Bachelor in Chemistry, University of the Basque Country  
-  📅 *01/2016 – 07/2016*
+  👩‍🔬 BSc student in Bachelor in Chemistry, University of the Basque Country  
+  **Dissertation project in Quantum chemistry applied to drug discovery.**  
+  📅 *01/2016 – 07/2016*  
 
 - **“Meet the Prof” Event with Nobel Laureates (Prof. Dudley R. Herschbach)**  
   📍 Passion for Knowledge Festival, Donostia, Spain  
@@ -168,6 +169,11 @@
 - **7th Encuentro “Vidas Cientificas” Career Fair** — Eureka! Science Museum, Donostia, Spain  
   📅 *23/10/2017*  
   🗣️🖼️  *Oral & Poster contributions*
+
+- **Mentoring**  
+  👩‍🔬 PhD student in Physics, Forschungszentrum Jülich  
+  °°Dissertation project in enhanced sampling molecular dynamics calculations.**  
+  📅 *03/2019 – 01/2020*  
 
 - **9th Encuentro “Vidas Cientificas” Career Fair** — Eureka! Science Museum, Donostia, Spain  
   📅 *05/11/2019*  
