@@ -12,7 +12,7 @@
 
 - [📢 Conference & Workshop Contributions](#-conference--workshop-contributions)
 - [🏫 Training Schools & Certifications](#-training-schools)
-- [👥 Outreach Activities](#-outreach-activities)
+- [👥 Outreach & Public Engagement](#-outreach-activities)
 - [📚 Publications List](#-publications-list)
 
 ---
@@ -144,7 +144,7 @@
 
 ---
 
-## 👥 Outreach Activities
+## 👥 Outreach Activities, Public Engament, Mentoring & Teaching
 
 <details>
 <summary>Click to expand full list</summary>
