@@ -144,13 +144,13 @@
 
 ---
 
-## 👥 Outreach Activities, Public Engament, Mentoring & Teaching
+## 👥 Outreach Activities & Public Engament
 
 <details>
 <summary>Click to expand full list</summary>
 
 
-### 🧑 Outreach & Public Engagement
+### 🧑 Outreach, Public Engagemen, Mentoring & Teachingt
 
 - **Thesis Co-Supervisor**  
   👩‍🔬 BSc student in Chemistry, University of the Basque Country  
