@@ -11,7 +11,7 @@
 ## 📑 Table of Contents
 
 - [📢 Conference & Workshop Contributions](#-conference--workshop-contributions)
-- [🏫 Training Schools](#-training-schools)
+- [🏫 Training Schools & Certifications](#-training-schools)
 - [👥 Outreach Activities](#-outreach-activities)
 - [📚 Publications List](#-publications-list)
 
