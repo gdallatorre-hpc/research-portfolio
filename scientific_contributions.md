@@ -10,10 +10,10 @@
 
 ## 📑 Table of Contents
 
-- [📢 Conference & Workshop Contributions](#conference-workshop-contributions)
-- [🏫 Training Schools & Certifications](#training-schools-certifications)
-- [👥 Outreach & Public Engagement](#outreach-public-engagement)
-- [📚 Publications List](#publications-list)
+- [📢 Conference & Workshop Contributions](#-conference--workshop-contributions)
+- [🏫 Training Schools & Certifications](#-training-schools)
+- [👥 Outreach & Public Engagement](#-outreach-activities-&-public-engagement)
+- [📚 Publications List](#-publications-list)
 
 ---
 
@@ -144,13 +144,13 @@
 
 ---
 
-## 👥 Outreach ## 👥 Outreach & Public Engagement
+## 👥 Outreach & Public Engament
 
 <details>
 <summary>Click to expand full list</summary>
 
 
-### 🧑 Outreach Activities, Public Engagement, Mentoring & Teaching
+### 🧑 Outreach Activities, Public Engagemen, Mentoring & Teachingt
 
 - **Thesis Co-Supervisor**  
   👩‍🔬 BSc student in Chemistry, University of the Basque Country  
